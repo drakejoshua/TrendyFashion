@@ -1,0 +1,19 @@
+/* custom font class */
+.font-family-title {
+    font-family: 'Hedvig Letters Serif', serif;
+}
+
+/* teal color class */
+.color-bg-teal {
+    background-color: #f5f5f4;
+}
+
+/* grey color class */
+.color-bg-grey {
+    background-color: #8fa6a8;
+}
+
+/* grey border-color class usable on element with borders only */
+.color-border-grey {
+    border-color: #eeeeee;
+}
